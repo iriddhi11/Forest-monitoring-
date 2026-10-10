@@ -14,7 +14,7 @@ The platform bridges real-time camera computer vision, instant officer dispatch,
 
 ---
 
-## ⚡ How It Works
+## How It Works
 
 ```
 [ Camera Trap / Stream ]
@@ -44,7 +44,7 @@ The platform bridges real-time camera computer vision, instant officer dispatch,
 
 ---
 
-## 🚀 Core Modules
+## Core Modules
 
 | Module | Description |
 | :--- | :--- |
@@ -56,7 +56,7 @@ The platform bridges real-time camera computer vision, instant officer dispatch,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Computer Vision**: Python, OpenCV, YOLOv8 (Ultralytics)
 - **Model Training & Datasets**: Google Colab / Kaggle, LILA BC Camera Traps, COCO, Roboflow
@@ -68,7 +68,7 @@ The platform bridges real-time camera computer vision, instant officer dispatch,
 
 ---
 
-## 👥 User Roles
+## User Roles
 
 - **Field Forest Officer**: Broadcasts location, receives incident assignments, updates response stages, and logs field evidence.
 - **Control Room Admin / Senior Officer**: Oversees full forest map, manages camera hardware configurations, and authorizes intelligence bulletins.
@@ -76,7 +76,7 @@ The platform bridges real-time camera computer vision, instant officer dispatch,
 
 ---
 
-## 🎯 Success Metrics
+## Success Metrics
 
 - **Sub-3-second Alert Latency**: Instant notification on the command dashboard from the moment of detection.
 - **Low False Alarm Rate**: Verified multi-frame persistence to eliminate environmental noise.
@@ -85,6 +85,6 @@ The platform bridges real-time camera computer vision, instant officer dispatch,
 
 ---
 
-## 📄 Documentation
+##  Documentation
 
 For full technical specifications, operational workflows, and future roadmap, refer to the complete [Product Requirements Document (PRD)](./prd.md).
